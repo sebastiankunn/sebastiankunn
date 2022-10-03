@@ -1,6 +1,6 @@
 hi hii
 
-I'm Sebastian, 22yo from Italy. I'm gonna be honest and admit that I'll probably never write anything remotely useful since I'm very lazy and I prefer doing other things in my free time
+I'm Sebastian, 23yo from Italy. I'm gonna be honest and admit that I'll probably never write anything remotely useful since I'm very lazy and I prefer doing other things in my free time
 
 I guess that if I had more nerd friends I'd be more prone to develop stuff but I really get bored easily while coding.
 
@@ -10,7 +10,7 @@ I'm friendly I promise
 
 I can speak italian, english, spanish and a bit of chinese
 
-Currently studying Python after getting a 18/30 in advanced C and a 22/30 in Java but i swear i'm good
+Currently studying  ̶P̶y̶t̶h̶o̶n̶ Javascript after getting a 18/30 in advanced C and a 22/30 in Java but i swear i'm good
 
 <!---
 sebastiankunn/sebastiankunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
