@@ -8,9 +8,9 @@ Idk i like games and consoles so if you want to develop something related to wee
 
 I'm friendly I promise
 
-I can speak italian, english, spanish and a bit of chinese
+I can speak italian, english, spanish and a bit of chinese, learning german
 
-Currently studying  ̶P̶y̶t̶h̶o̶n̶ Javascript after getting a 18/30 in advanced C and a 22/30 in Java but i swear i'm good
+Currently trying to find the motivation to study Python, but I know Java, Javascript and its extensions, C, and other stuff i don't remember
 
 <!---
 sebastiankunn/sebastiankunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
